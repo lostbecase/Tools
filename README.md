@@ -6,5 +6,5 @@
 
 ## 工具
 
-- [HexCompare](tree/master/HexCompare)
+- [HexCompare](https://github.com/lostbecase/Tools/tree/master/HexComparator)
 
