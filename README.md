@@ -6,5 +6,5 @@
 
 ## 工具
 
-- [HexCompare](HexCompare)
+- [HexCompare](tree/master/HexCompare)
 
